@@ -1,4 +1,4 @@
-module github.com/Hercules/gotools
+module github.com/hardboiledalex/go-tools
 
 go 1.15
 

@@ -1,8 +1,8 @@
 package ssh
 
 import (
-	"github.houston.softwaregrp.net/Hercules/gotools/utils"
-	"github.houston.softwaregrp.net/Hercules/gotools/utils/logging"
+	"github.com/hardboiledalex/go-tools/utils"
+	"github.com/hardboiledalex/go-tools/utils/logging"
 	"fmt"
 	"github.com/melbahja/goph"
 	"os"

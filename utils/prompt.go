@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.houston.softwaregrp.net/Hercules/gotools/utils/logging"
+	"github.com/hardboiledalex/go-tools/utils/logging"
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/gookit/color"
 	"os"

@@ -2,7 +2,7 @@ package utils
 
 import (
 	"archive/tar"
-	"github.houston.softwaregrp.net/Hercules/gotools/utils/logging"
+	"github.com/hardboiledalex/go-tools/utils/logging"
 	"bufio"
 	"compress/gzip"
 	"crypto/rand"
