@@ -1,7 +1,7 @@
 package ssh
 
 import (
-	"github.com/hardboiledalex/go-tools/utils"
+	"github.com/hardboiledalex/go-tools/lib/utils"
 	"github.com/melbahja/goph"
 	"github.com/pkg/sftp"
 	"io/ioutil"

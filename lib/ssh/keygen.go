@@ -1,8 +1,8 @@
 package ssh
 
 import (
-	"github.com/hardboiledalex/go-tools/utils"
-	"github.com/hardboiledalex/go-tools/utils/logging"
+	"github.com/hardboiledalex/go-tools/lib/utils"
+	"github.com/hardboiledalex/go-tools/lib/logging"
 	"crypto/rand"
 	"crypto/rsa"
 	"crypto/x509"

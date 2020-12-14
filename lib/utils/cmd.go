@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/hardboiledalex/go-tools/utils/logging"
+	"github.com/hardboiledalex/go-tools/lib/logging"
 	"os"
 	"os/exec"
 	"strings"

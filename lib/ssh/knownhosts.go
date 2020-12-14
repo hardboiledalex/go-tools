@@ -1,8 +1,8 @@
 package ssh
 
 import (
-	"github.com/hardboiledalex/go-tools/utils"
-	"github.com/hardboiledalex/go-tools/utils/logging"
+	"github.com/hardboiledalex/go-tools/lib/utils"
+	"github.com/hardboiledalex/go-tools/lib/logging"
 	"encoding/base64"
 	"fmt"
 	"github.com/melbahja/goph"

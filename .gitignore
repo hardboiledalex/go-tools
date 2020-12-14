@@ -14,5 +14,9 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# Binaries
+bin/
+
+# Intellij IDEA
 .idea
 *.iml
